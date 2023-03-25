@@ -14,4 +14,4 @@ that contains 6 different classes as follows:
   https://www.youtube.com/watch?v=jvZm8REF2KY&t=2058s&ab_channel=DigitalSreeni
   
   The results obtained are a first good approximation of what is wanted for this task.
-  The obtained neural network, has a Jaccard similarity (SIMRATIO) of 0.7925, which is pretty decent
+  The trained network has a Jaccard similarity (SIMRATIO) of 0.7925, which is pretty decent
