@@ -1,5 +1,5 @@
 # Segmentation_satellite_images
-Convolutional neural network to classify different objects from RGB aerial images
+Convolutional neural network built using Keras developed to classify different objects from RGB aerial images
 The dataset used to train this convolutional neural network was obtained from Kaggle
 https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 that contains 6 different classes as follows:
